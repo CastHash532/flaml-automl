@@ -1,2 +1,2 @@
-# flaml-automl
-mnist example with flaml automl #AutoMl #Classification #Machine_Learning 
+# My notebooks for Kaggle competitions
+examples with automl
